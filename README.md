@@ -4,6 +4,9 @@ This is a Node.js app to control a one axis sun tracker by using latitude, longi
 This app runs on a command and control computer like a Raspberry Pi 3 and communicate with
 a **NodeMCU** module via websockets.
  
+![ScreenShot](/docs/seele.jpg?raw=true "Solar Panel")
+![ScreenShot](/docs/inner.jpg?raw=true "Seele")
+ 
 ## Setup
 
 ```bash
