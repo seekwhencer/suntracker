@@ -13,8 +13,8 @@ a **NodeMCU** module via websockets.
 cd /my/projects/rootfolder
  
 
-git clone ... suntracker
-cd suntracker
+git clone https://github.com/seekwhencer/suntracker.git suntracker
+cd suntracker/app
 npm install
 ```
 
@@ -31,9 +31,14 @@ npm start
 - L298N
 - DC Down converter with USB and soldered output
 
-## Watch this documentation (german)
+## Watch this documentations
+
+As part of my dev station on a raspberry pi (german)
 
 > https://docs.google.com/document/d/1_xv6BJOvg2tKAK0UAu02wwiqLuZEJGaxQMHlU8f96E8
+
+This helps me
+> https://tutorials-raspberrypi.de/einfuehrung-programmierung-esp8266-nodemcu-boards/
 
 ## NodeMCU
 
